@@ -21,7 +21,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-react-hmre": "^1.1.0",
     "babel-preset-stage-0": "^6.24.1",
-    "css-loader": "^0.23.1",
+    "css-loader": "^6.7.2",
     "events": "^1.1.1",
     "extract-text-webpack-plugin": "^3.0.0-beta.3",
     "flux": "^2.1.1",
@@ -36,6 +36,6 @@
     "prop-types": "^15.5.10",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "5.0.1"
   }
 }
